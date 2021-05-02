@@ -327,7 +327,7 @@ nav .request
         column-gap: 1.5rem;
         margin-top: 1rem;
     }
-    .whyUs__heading, .whyUs__text
+    .whyUs__heading, .whyUs__text, .article__heading
     {
         text-align: left;
     }
